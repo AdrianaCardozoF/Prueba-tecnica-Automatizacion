@@ -89,3 +89,5 @@ Ejecutar el comando Get-ExecutionPolicy en powershell, posteriormente ejecutar e
 Después de ejecutar las pruebas, ejecutar el comando mvn -q allure:report y finalmente ejecutar el comando mvn allure:serve. Esto te abrira un navegador con el reporte de ejecución.
 
 ## Autor
+Adriana Cardozo Flores
+adrianacardozoflores@gmail.com

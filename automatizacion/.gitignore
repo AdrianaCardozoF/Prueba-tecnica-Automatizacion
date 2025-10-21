@@ -1,0 +1,49 @@
+Compilación de Java
+target/
+bin/
+out/
+
+Configuración del IDE
+*.iml
+.idea/
+.vscode/
+*.classpath
+*.project
+*.settings/
+
+Sistema operativo
+.DS_Store
+Thumbs.db
+
+Archivos de log y reportes
+logs/
+*.log
+
+Reportes Allure
+allure-results/
+allure-report/
+allure-history/
+
+Archivos de dependencias temporales
+*.tmp
+*.swp
+*.bak
+*.old
+
+Archivos de entorno y secretos
+.env
+*.key
+*.secret
+
+Configuraciones de navegador
+chromedriver.log
+geckodriver.log
+
+Maven
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+.settings/
+
+Reportes JUnit u otros
+test-output/
+surefire-reports/
